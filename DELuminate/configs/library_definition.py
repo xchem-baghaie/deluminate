@@ -1,0 +1,33 @@
+BB_FILEPATH = "./DELuminate/xviewer_queries/static_exports/XBBs_20Dec2024.csv"
+
+BB_FILE_COLUMNS = [
+    "XBBID",
+    "SMILES",
+    "LIBRARY_DECK_NAME",
+    "CLASSNAME",
+    "STEREOCHEMISTRYNAME",
+    "IS_VIRTUAL_BB",
+]
+
+LINKER_DEFAULT_SMILES_FILEPATH = "./DELuminate/xviewer_queries/Default_Linker_SMILES.csv"
+
+BRO5_LIBRARIES = [
+    "XLIB0019",
+    "XLIB0041",
+    "XLIB0042",
+]
+
+BOC_AMINE_SNAR_LIBRARY_IDS = [
+    "XLIB0046",
+    "XLIB0050",
+]
+
+SYMMETRICAL_MONO_BOC_TRIAMINE_LIBRARY_IDS = [
+    "XLIB0134",
+    "XLIB0135",
+]
+
+LIBRARIES_TO_SKIP_PLACEHOLDER_VALIDATION = [
+    "XCLB0130C",
+    "XCLB0131C",
+]

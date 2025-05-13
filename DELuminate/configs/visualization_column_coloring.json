@@ -1,0 +1,172 @@
+{
+    "Bromo_Acid_Chemical_Space_Benchmarking.csv": [
+    ["Source", [], ["Selected Br"], true]
+        ], 
+    "Chloro_Acid_Chemical_Space_Benchmarking.csv": [
+        ["Source", [], ["Selected Cl"], true]
+        ], 
+    "DELcore_And_DELflex.csv": [
+        ["Source", [], [], true]
+        ],
+    "DELcore_And_PubChem.csv": [
+        ["Library", ["PubChem"], [], false], ["Library Group", ["PubChem"], [], true]
+        ],
+    "DELcore_Covalent_And_DELflex_Covalent.csv": [
+        ["Library", [], [], false], ["Deck", [], [], true]
+        ],
+    "DELcore_Covalent_Precursor_vs_DELflex_Covalent_Precursor.csv": [
+        ["Library", [], [], false], ["Library Group", [], [], true]
+        ],
+    "DELcore_Noncovalent_vs_Covalent.csv": [
+        ["Library", [], [], false], ["Library Group", [], [], true]
+        ],
+    "Enko_2024_XPLs_And_ReadiDELs.csv": [
+        ["Library Group", ["ReadiDELs in Enko's collection"], [], true]
+        ],
+    "Enko_2025_XPLs_And_ReadiDELs.csv": [
+        ["Library Group", ["ReadiDELs in Enko's collection"], [], true]
+        ],
+    "Orogen_2024_XPLs_And_ReadiDELs.csv": [
+        ["Library Group", ["ReadiDELs in Orogen's Collection"], [], true]
+        ],
+    "Planned_Libraries_2025_And_DELcore.csv": [
+        ["Library", [], [], false], ["Library Group", ["DELcore", "DELflex"], [], true]
+        ],
+    "Planned_Libraries_2025_And_DELflex.csv": [
+        ["Library", [], [], false], ["Library Group", ["DELcore", "DELflex"], [], true]
+        ],
+    "Precursor_Libraries_For_Magnet.csv":[
+        ["Library", [], [], true]
+        ],
+    "Precursor_Libraries_2_And_3_Cycle.csv":[
+        ["Library", [], [], true]
+        ],
+    "Prioritized_XPLs.csv": [
+        ["Library", [], [], false], ["Number of Cycles", [], [], false], ["Topology (DELTA descriptor)", [], [], false],
+        ["Linear Topology", [], ["Y"], false], ["Branched Topology", [], ["Y"], false], ["Cyclic Topology", [], ["Y"], false]
+        ],
+    "Prioritized_XPLs_And_Approved_Drugs.csv": [
+        ["Source", [], ["Approved Drugs"], false]], "Prioritized_XPLs_And_ChemBL.csv": [["Source", ["ChemBL"], [], false]
+        ],
+    "Prioritized_XPLs_And_Enamine_HTS.csv": [
+        ["Source", ["Enamine HTS"], [], false]
+        ],
+    "Prioritized_XPLs_And_Enamine_REAL.csv": [
+        ["Source", ["Enamine REAL"], [], false]
+        ],
+    "Prioritized_XPLs_And_Gostar.csv": [
+        ["Source", ["Gostar"], [], false]
+        ],
+    "Prioritized_XPLs_And_Pubchem.csv": [
+        ["Source", ["PubChem"], [], false]
+        ],
+    "Prioritized_XPLs_And_ReadiDELs.csv": [
+        ["Library Group", ["DELcore", "DELflex", "ReadiDELs"], [], false], ["Number of Cycles", [], [], false],
+        ["Topology (DELTA descriptor)", [], [], false], ["Linear Topology", [], ["Y"], false],
+        ["Branched Topology", [], ["Y"], false], ["Cyclic Topology", [], ["Y"], false]
+        ],
+    "Prioritized_XPLs_And_XLIBs.csv": [
+        ["Library Group", ["DELcore", "DELflex", "ReadiDELs"], [], false], ["Number of Cycles", [], [], false],
+        ["Topology (DELTA descriptor)", [], [], false], ["Linear Topology", [], ["Y"], false],
+        ["Branched Topology", [], ["Y"], false], ["Cyclic Topology", [], ["Y"], false]
+        ],
+    "ReadiBLOX_And_Enamine_FmocAAs.csv": [
+        ["Source", [], ["ReadiBLOX"], false]
+        ],
+    "ReadiBLOX_FmocAAs_vs_XBB_Fmoc_AAs.csv": [
+        ["Source", [], ["ReadiBLOX"], true]
+        ],
+    "ReadiDELs.csv": [
+        ["Library", [], [], false], ["Synonym", [], [], true], ["Deck", [], [], false], ["ReadiDEL", [], ["Y"], false],
+        ["Covalent", [], ["Y"], false], ["Macrocycle", [], ["Y"], false], ["Number of Cycles", [], [], false],
+        ["Topology (DELTA descriptor)", [], [], false], ["Linear Topology", [], ["Y"], false],
+        ["Branched Topology", [], ["Y"], false], ["Cyclic Topology", [], ["Y"], false]
+        ],
+    "ReadiDELs_And_Approved_Drugs.csv": [
+        ["Source", [], ["Approved Drugs"], false], ["Library", ["Approved Drugs"], [], false],
+        ["Synonym", ["Approved Drugs"], [], false]
+        ],
+    "ReadiDELs_And_ChemBL.csv": [
+        ["Source", ["ChemBL"], [], false], ["Library", ["ChemBL"], [], false], ["Synonym", ["ChemBL"], [], false]
+        ],
+    "ReadiDELs_And_Enamine_HTS.csv": [
+        ["Source", ["Enamine HTS"], [], false], ["Library", ["Enamine HTS"], [], false], ["Synonym", ["Enamine HTS"], [], false]
+        ],
+    "ReadiDELs_And_Enamine_REAL.csv": [
+        ["Source", ["Enamine REAL"], [], false], ["Library", ["Enamine REAL"], [], false], ["Synonym", ["Enamine REAL"], [], false]
+        ],
+    "ReadiDELs_And_Enamine_REAL_And_ChemBL.csv": [
+        ["Source", [], [], false], ["Library", ["Enamine REAL", "ChemBL"], [], false],
+        ["Synonym", ["Enamine REAL", "ChemBL"], [], false]
+        ],
+    "ReadiDELs_And_Gostar.csv": [
+        ["Source", ["Gostar"], [], false], ["Library", ["Gostar"], [], false], ["Synonym", ["Gostar"], [], false]
+        ],
+    "ReadiDELs_And_Pubchem.csv": [
+        ["Source", ["PubChem"], [], false], ["Library", ["PubChem"], [], false], ["Synonym", ["PubChem"], [], false]
+        ],
+    "XCLBs_and_KRAS_MPro_Patent_Compounds.csv":[
+        ["Source", ["X-Chem Covalent DEL"], [], false]
+        ],
+    "XLIB_Disynthons.csv": [
+        ["Library", [], [], false]
+        ],
+    "XLIB_Disynthons_And_Enamine_REAL.csv": [
+        ["Source", ["XLIB Disynthons"], [], false], ["Library", ["Enamine REAL"], [], false], ["Deck", ["Enamine REAL"], [], false]
+        ],
+    "XLIB_Disynthons_And_ComInnex_Virtual_Library_20190225_Pharma.csv" : [
+        ["Source", ["XLIB Disynthons"], [], false], ["Library", ["TEL VL Pharma"], [], false], ["Deck", ["TEL VL Pharma"], [], false]
+        ],
+    "XLIB_Disynthons_And_ComInnex_Virtual_Library_20190225_Traditional_Chemistry.csv" : [
+        ["Source", ["XLIB Disynthons"], [], false], ["Library", ["TEL VL Agro"], [], false], ["Deck", ["TEL VL Agro"], [], false]
+        ],
+    "XLIB_Disynthons_And_GSK_VL1_2020_43615cmpds_20200512.csv" : [
+        ["Source", ["XLIB Disynthons"], [], false], ["Library", ["GSK VL1"], [], false], ["Deck", ["GSK VL1"], [], false]
+        ],
+    "XLIB_Disynthons_And_GSK_VL2_2020_9977cmpds_20200924.csv" : [
+        ["Source", ["XLIB Disynthons"], [], false], ["Library", ["GSK VL2"], [], false], ["Deck", ["GSK VL2"], [], false]
+        ],
+    "XLIB_Disynthons_And_GSK_VL3_2021_38507cmpds_20201020.csv" : [
+        ["Source", ["XLIB Disynthons"], [], false], ["Library", ["GSK VL3"], [], false], ["Deck", ["GSK VL3"], [], false]
+        ],
+    "XLIB_Disynthons_And_GSK_VL4_2021_33890cmpds_20210823.csv" : [
+        ["Source", ["XLIB Disynthons"], [], false], ["Library", ["GSK VL4"], [], false], ["Deck", ["GSK VL4"], [], false]
+        ],
+    "XLIB_Disynthons_And_Kishida_MW500-800_Virtual_Library1_20200310.csv" : [
+        ["Source", ["XLIB Disynthons"], [], false], ["Library", ["Kishida MW500-800 VL1"], [], false], ["Deck", ["Kishida MW500-800 VL1"], [], false]
+        ],
+    "XLIB_Disynthons_And_Kishida_MW500-800_Virtual_Library2_20210607.csv" : [
+        ["Source", ["XLIB Disynthons"], [], false], ["Library", ["Kishida MW500-800 VL2"], [], false], ["Deck", ["Kishida MW500-800 VL2"], [], false]
+        ],
+    "XLIB_Disynthons_And_Peptidomimetic_VL1_7500cmpds_20210323.csv" : [
+        ["Source", ["XLIB Disynthons"], [], false], ["Library", ["Peptidomimetic VL1"], [], false], ["Deck", ["Peptidomimetic VL1"], [], false]
+        ],
+    "XLIB_Disynthons_And_Peptidomimetic_VL2_30000cmpds_20210323.csv" : [
+        ["Source", ["XLIB Disynthons"], [], false], ["Library", ["Peptidomimetic VL2"], [], false], ["Deck", ["Peptidomimetic VL2"], [], false]
+        ],
+    "XLIBs.csv": [
+        ["Library", [], [], false], ["Synonym", [], [], false], ["Deck", [], [], false], ["ReadiDEL", [], ["Y"], false],
+        ["Covalent", [], ["Y"], false], ["Macrocycle", [], ["Y"], false], ["Number of Cycles", [], [], false],
+        ["Topology (DELTA descriptor)", [], [], false], ["Linear Topology", [], ["Y"], false],
+        ["Branched Topology", [], ["Y"], false], ["Cyclic Topology", [], ["Y"], false]
+        ],
+    "XLIBs_And_Approved_Drugs.csv": [
+        ["Source", [], ["Approved Drugs"], false], ["Library", ["Approved Drugs"], [], false]
+        ],
+    "XLIBs_And_ChemBL.csv": [
+        ["Source", ["ChemBL"], [], false], ["Library", ["ChemBL"], [], false]
+        ],
+    "XLIBs_And_Enamine_HTS.csv": [
+        ["Source", ["Enamine HTS"], [], false], ["Library", ["Enamine HTS"], [], false]
+        ],
+    "XLIBs_And_Enamine_REAL.csv": [
+        ["XLIB_or_Enamine_REAL", ["Enamine REAL"], [], false], ["Source", ["Enamine REAL"], [], false],
+        ["Library", ["Enamine REAL"], [], false]
+        ],
+    "XLIBs_And_Gostar.csv": [
+        ["Source", ["Gostar"], [], false], ["Library", ["Gostar"], [], false]
+        ],
+    "XLIBs_And_Pubchem.csv": [
+        ["Source", ["PubChem"], [], false], ["Library", ["PubChem"], [], false]
+        ]
+    }
